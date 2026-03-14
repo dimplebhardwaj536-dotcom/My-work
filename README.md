@@ -58,7 +58,7 @@ Paste a clinical medical report. Get a plain-English patient summary — no medi
 <td width="50%" valign="top">
 
 ### 🔍 AI Skill Gap Detector
-> *Resume analyzer · LLM-powered · Personalized roadmaps*
+> *Resume analyzer · ML-powered · Personalized roadmaps*
 
 Upload your resume PDF. Get a full breakdown of your skill gaps vs. real job requirements and a personalized learning roadmap — built for students and fresh grads.
 
